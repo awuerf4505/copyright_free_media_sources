@@ -1,0 +1,59 @@
+body {
+      background: #ffffff;
+}
+
+h1 {
+    color: #000000;
+    font-size: 54px;
+    font-family: 'Suez One', serif;
+    text-align: center;
+
+}
+
+h2 {
+    color: #000000;
+    font-size: 27px;
+    font-family: 'Suez One', serif;
+    margin-left: 200px;
+    padding-bottom: 0px;
+
+
+}
+
+ul {
+    font-family: 'Nunito', sans-serif;
+    padding-top: 2px;
+    margin-left: 200px;
+
+
+}
+
+
+
+ul li {
+    margin: 5px;
+    padding: 3px;
+
+
+}
+
+
+a:link {
+    color: #0000ff;
+
+}
+
+a:visited {
+    color: #880088;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color: #0055ff;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #006600;
+}
